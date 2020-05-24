@@ -1,0 +1,8 @@
+public class rev {
+  public static void main(String[] args) {
+    String name[]= {"s", "r", "i", "n" , "u"};
+    for (int i = 4; i>=0; i--) {
+      System.out.println(name[i]);
+    }
+  }
+}
